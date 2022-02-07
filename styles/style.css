@@ -124,8 +124,7 @@
 }
 
 .digits {
-  padding-top: 100px;
-  padding-bottom: 40px;
+  padding: 100px 0 100px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -163,7 +162,7 @@
   justify-content: space-between;
   flex-wrap: wrap;
   width: 1100px;
-  padding: 0 0 100px;
+  padding: 0px;
   margin: 0px;
 }
 
@@ -200,9 +199,9 @@
   flex-direction: column;
   align-items: center;
   height: 100vh;
-  min-height: 600px;
-  max-height: 756px;
+  height: 890px;
   background-color: #f2f2f2;
+
 }
 
 .feinman__title {
