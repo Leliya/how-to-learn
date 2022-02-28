@@ -1,3 +1,9 @@
+.description {
+  padding-top: 100px;
+  display: flex;
+  justify-content: center;
+}
+
 .cards__description {
   font-size:18px;
   font-weight: normal;
