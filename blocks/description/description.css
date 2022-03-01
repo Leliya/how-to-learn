@@ -3,11 +3,3 @@
   display: flex;
   justify-content: center;
 }
-
-.cards__description {
-  font-size:18px;
-  font-weight: normal;
-  line-height: 23px;
-  margin: 0px;
-  text-align: center;
-}
